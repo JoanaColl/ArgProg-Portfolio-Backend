@@ -42,7 +42,7 @@
     </li>
     <li><a href="#desarrollado">Desarrollado por...</a>
     <li><a href="#contacto">Contacto</a>
-    <li><a href="#contacto">Agradecimiento</a>
+    <li><a href="#agradecimiento">Agradecimiento</a>
   </ol>
 
 <!-- TECNOLOGÍAS UTILIZADAS -->
@@ -103,15 +103,7 @@
   Si deseas correr la aplicación en un entorno local debes tener en cuenta lo siguiente: 
   1. Clona el repositorio utilizando GIT o descargando el archivo ZIP:
 
-      `git clone https://github.com/jc-projects/ArgProg_Portfolio_Frontend.git`
-
-  2. Instala las dependencias a través de NPM.
-
-      `npm install`
-
-  3. No hace falta que configures la variable de entorno ya que el proyecto funciona de forma local `"http://localhost:8080"`
-
-  4. Compila y monta el proyecto utilizando el comando `ng serve`
+      `git clone https://github.com/jc-projects/ArgProg_Portfolio_Backend.git`
   
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
@@ -225,7 +217,6 @@
   <a name="desarrollado"></a>
   ## 💁 Desarrollado por...
   * **Joana Coll** - [jc-projects](https://github.com/jc-projects)
-  
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
 <!-- CONTACTO -->
@@ -233,7 +224,6 @@
   ## 📩 Contacto
   Si deseas contactarte conmigo podes hacerlo mediante: 
   **[Instagram ](https://instagram.com/einenko) - [Github ](https://github.com/jc-projects)** 
-  
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 <!-- AGRADECIMIENTO -->
@@ -244,5 +234,5 @@
   ¡Que tengas un lindo día!
   
   Nana ✨
-  
+ 
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
