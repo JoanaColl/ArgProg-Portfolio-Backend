@@ -10,7 +10,7 @@
         Consigna: Aplicación web full stack que muestra: datos personales, experiencia laboral, estudios cursados, conocimiento de las tecnologías, etc. De arquitectura distribuida. Debe contener un diseño de interface (front end) que muestre la información, una base de datos que almacene los datos antes mencionados y debe contar con las APIs necesarias para proveer a través de internet la información (back end)
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/portfolio-full.gif" width="400px">
+          <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/portfolio-full.gif" width="400px">
         </td>
       </tr>
     </table>
@@ -93,7 +93,7 @@
 <!-- DOCUMENTACIÓN -->
   <a name="documentacion"></a>
   ## 📝 Documentación
-  * [Esquema básico sobre el Trabajo Práctico Final Integrador](https://github.com/jc-projects/ArgProg_Portfolio_Frontend/blob/main/archivos_README/Esquema%20b%C3%A1sico%20sobre%20el%20Trabajo%20Pr%C3%A1ctico%20Final%20Integrador.pdf "Esquema")
+  * [Esquema básico sobre el Trabajo Práctico Final Integrador](https://github.com/joana-coll/ArgProg-Portfolio-Frontend/blob/main/archivos_README/Esquema%20b%C3%A1sico%20sobre%20el%20Trabajo%20Pr%C3%A1ctico%20Final%20Integrador.pdf "Esquema")
 
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
@@ -103,7 +103,7 @@
   Si deseas correr la aplicación en un entorno local debes tener en cuenta lo siguiente: 
   1. Clona el repositorio utilizando GIT o descargando el archivo ZIP:
 
-      `git clone https://github.com/jc-projects/ArgProg_Portfolio_Backend.git`
+      `git clone https://github.com/joana-coll/ArgProg-Portfolio-Backend.git`
   
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
@@ -122,7 +122,7 @@
           </ul>
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/crud.gif" width="200px">
+          <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/crud.gif" width="200px">
         </td>
       </tr>
     </table>
@@ -133,11 +133,11 @@
     <table>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/alert-ok.png" width="400px" align="center">
+          <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/alert-ok.png" width="400px" align="center">
           <p align="center"><sub>Experiencia añadida correctamente</sub></p>
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/alert-error.png" width="400px" align="center">
+          <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/alert-error.png" width="400px" align="center">
           <p align="center"><sub>¡Error! No pudo añadirse el proyecto</sub></p>
         </td>
       </tr>
@@ -148,40 +148,40 @@
   ### Header
   En la parte superior izquierda se encuentra el _logo de Argentina Programa #YoProgramo_ con su respectivo link al sitio oficial, en la parte superior derecha los _botones de redes sociales_ y _boton de ingresar_ finalizando con un _banner_ a elección.
   <p align="center">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/navbar.gif" width="600px">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/src/assets/bannerInicio.png" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/navbar.gif" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/src/assets/bannerInicio.png" width="600px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
   ### Login
   Al dar clic en el _boton de ingresar_ se abre un modal que permite completar usuario y contraseña. Si ambos son correctos **habilita la edición del portfolio** mediante los _botones agregar, editar y borrar_. Además cambia el _boton ingresar_ por el _boton salir_. <br>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/loginCorrecto.gif" width="300px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/loginCorrecto.gif" width="300px">
   </p>
   
   Si los datos ingresados no son correctos se crea una _alerta informando el error_ y los _botones agregar, editar y borrar_ no se habilitan.
   
   <p align="center">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/loginIncorrecto.gif" width="300px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/loginIncorrecto.gif" width="300px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
   ### Acerca de
   _Foto de perfil_, _nombre y apellido_, _título_ (FullStack...) y una breve _información profesional_ resumida. Todo lo anteriormente nombrado puede **editarse estando logueado**. Una vez realizada la acción se crea una alerta informando si fue correcta o incorrecta.
   <p align="center">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/acercaDe.png" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/acercaDe.png" width="600px">
   </p>
   
   <p align="center">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/acercaDe-form.png" width=600><br><sub>Editar persona</sub>
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/acercaDe-form.png" width=600><br><sub>Editar persona</sub>
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
   ### Experiencia
   _Título del puesto_, _nombre de la empresa o empleador_, _periodo_, breve _descripcion de las actividades realizadas_.
   <p align="center">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/experiencia.png" width="600px">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/experiencia-form.png" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/experiencia.png" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/experiencia-form.png" width="600px">
     <br><sub>Nueva experiencia</sub>
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
@@ -189,8 +189,8 @@
   ### Educación
   _Título de la carrera/curso o estudio_, _nombre de la institución_, _periodo_, breve _descripcion de los temas vistos_.
   <p align="center">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/educacion.png" width="600px">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/educacion-form.png" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/educacion.png" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/educacion-form.png" width="600px">
     <br><sub>Nueva educación</sub>
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
@@ -198,8 +198,8 @@
   ### Skills
   _Nombre de la habilidad_, _porcentaje_.
   <p align="center">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/skills.png" width="600px">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/skill-form.png" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/skills.png" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/skill-form.png" width="600px">
     <br><sub>Nueva habilidad</sub>
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
@@ -207,8 +207,8 @@
   ### Proyecto
   _Título del proyecto_, _descripción_, _imagen_, _URL del repositorio_.
   <p align="center">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/proyectos.png" width="600px">
-    <img src="https://raw.githubusercontent.com/jc-projects/ArgProg_Portfolio_Frontend/main/archivos_README/proyecto-form.png" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/proyectos.png" width="600px">
+    <img src="https://raw.githubusercontent.com/joana-coll/ArgProg-Portfolio-Frontend/main/archivos_README/proyecto-form.png" width="600px">
     <br><sub>Nuevo proyecto</sub>
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
